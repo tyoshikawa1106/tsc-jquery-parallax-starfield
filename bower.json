@@ -1,12 +1,12 @@
 {
-  "name": "tsc-jquery",
+  "name": "tsc-jquery-parallax-starfield",
   "description": "",
   "main": "server.js",
   "authors": [
     "Taiki Yoshikawa"
   ],
   "license": "ISC",
-  "homepage": "https://github.com/tyoshikawa1106/tsc-jquery",
+  "homepage": "https://github.com/tyoshikawa1106/tsc-jquery-parallax-starfield",
   "moduleType": [],
   "ignore": [
     "**/.*",

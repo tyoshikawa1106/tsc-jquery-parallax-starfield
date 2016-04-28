@@ -1,2 +1,2 @@
-# tsc-jquery
+# tsc-jquery-parallax-starfield
 
