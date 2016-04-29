@@ -52,4 +52,4 @@ var Parallax;
     }());
     Parallax.ParallaxSurface = ParallaxSurface;
 })(Parallax || (Parallax = {}));
-//# sourceMappingURL=parallax.js.map
+//# sourceMappingURL=entry.js.map
